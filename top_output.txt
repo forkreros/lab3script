@@ -1,0 +1,10 @@
+top - 15:53:03 up  1:35,  1 user,  load average: 0.42, 0.28, 0.28
+Tasks: 215 total,   1 running, 214 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  2.4 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   3915.4 total,    223.6 free,   2225.8 used,   1761.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   1689.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2050 SCAR      20   0 4990912 437472 151732 S   0.9  10.9   9:49.60 gnome-s+
+   2720 SCAR      20   0  783712  58836  43012 S   0.9   1.5   0:16.43 gnome-t+
+   3906 SCAR      20   0   18.9g 397636 175464 S   0.9   9.9   3:54.16 Isolate+
